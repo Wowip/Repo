@@ -1,4 +1,6 @@
-# Repo
+EJERCICIOS DEL LIBRO DE "Learning Ruby"
 
-Este repositorio, contiene los ejemplos del libro "Learning Ruby" de Michael Fitzgerald.
+ARCHIVOS
+
+Los archivos del siguiente repositorio, contienen el código de los ejercicios que están en el libro.
 

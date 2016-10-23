@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["rdoc-generatedindex.html"],"longSearchIndex":[""],"info":[["RDoc-generated index.html","","RDoc-generated index_html.html","","<p>&lt;html xmlns=“www.w3.org/1999/xhtml” xml:lang=“en” lang=“en”&gt;\n&lt;head&gt; …\n"]]}}
